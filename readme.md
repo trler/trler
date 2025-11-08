@@ -1,1 +1,1 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);沃日麻闯到鬼了!&center=true&size=27"> </a> </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E4%BA%BA%E7%B1%BB%E7%9A%84%E7%81%B5%E9%AD%82%E4%B8%AD%E6%98%AF%E6%B2%A1%E6%9C%89%E5%9F%BA%E5%9B%A0%E7%9A%84)](https://git.io/typing-svg)
